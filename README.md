@@ -1,6 +1,7 @@
 ## Engraver Box
 
 > It's like Schrodinger's cat: You don't know if the laser is on unless you open the box, collapse the wave function, and shoot your eye out!
+>
 > -- Mitch
 
 A laser safe enclosure to fit most common Chinese laser engravers.
